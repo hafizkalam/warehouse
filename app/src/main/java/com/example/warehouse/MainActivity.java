@@ -12,8 +12,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.firebase.auth.FirebaseAuth;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     TextView firebasenameview;
@@ -43,10 +41,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent i;
 
         switch (view.getId()){
-            case R.id.addItems : i = new Intent(this,additemActivity.class); startActivity(i); break;
+            case R.id.addItems : i = new Intent(this, AdditemsActivity.class); startActivity(i); break;
 //            case R.id.deleteItems : i = new Intent(this,deleteItemsActivity.class);startActivity(i); break;
 //            case R.id.scanItems : i = new Intent(this,scanItemsActivity.class);startActivity(i); break;
-            case R.id.viewInventory : i = new Intent(this,viewInventoryActivity.class);startActivity(i); break;
+            case R.id.viewInventory : i = new Intent(this, ViewInventoryActivity.class);startActivity(i); break;
+            case R.id.scanItems: i = new Intent(this, ProductActivity.class); startActivity(i); break;
             default: break;
         }
     }

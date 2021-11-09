@@ -8,13 +8,13 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="250dp"
-        android:layout_height="150dp"
-        android:layout_marginTop="25dp"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
         android:layout_centerHorizontal="true"
         android:layout_marginLeft="85dp"
+        android:layout_marginTop="75dp"
         android:text="Add Product"
-        android:textSize="60dp"
+        android:textSize="35dp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="97dp"
         tools:layout_editor_absoluteY="16dp" />
@@ -98,7 +98,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="-75dp"
         android:ems="10"
-        android:textColor="#ffff"
         android:inputType="number"
         android:hint="Rp."
         tools:layout_editor_absoluteX="114dp"

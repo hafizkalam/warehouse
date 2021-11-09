@@ -1,78 +1,150 @@
 [
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashs.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_splashs.xml"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\icon.png"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\plus.png"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_account_user.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\ic_account_user.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_password.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\ic_password.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\font_font.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_item.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\product_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_user.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\ic_account_user.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\font_montserratlight.ttf.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\font\\montserratlight.ttf"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_inventory.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_view_inventory.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inventory.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\inventory.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\font_robotoslablight.ttf.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\font\\robotoslablight.ttf"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Project\\warehouse\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_additems.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\layout\\activity_additems.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Project\\warehouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\warehouse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     }
 ]

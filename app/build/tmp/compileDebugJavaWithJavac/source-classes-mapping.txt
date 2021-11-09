@@ -1,7 +1,26 @@
+com/example/warehouse/models/Products.java
+ com.example.warehouse.models.Products
 com/example/warehouse/MainActivity.java
  com.example.warehouse.MainActivity
+com/example/warehouse/ViewInventoryActivity.java
+ com.example.warehouse.ViewInventoryActivity
+com/example/warehouse/ProductActivity.java
+ com.example.warehouse.ProductActivity
+ com.example.warehouse.ProductActivity$1
 com/example/warehouse/LoginActivity.java
  com.example.warehouse.LoginActivity
- com.example.warehouse.LoginActivity$1
+com/example/warehouse/AdditemsActivity.java
+ com.example.warehouse.AdditemsActivity
+ com.example.warehouse.AdditemsActivity$1
+ com.example.warehouse.AdditemsActivity$2
+ com.example.warehouse.AdditemsActivity$3
 com/example/warehouse/BuildConfig.java
  com.example.warehouse.BuildConfig
+com/example/warehouse/models/ActionDatas.java
+ com.example.warehouse.models.ActionDatas
+com/example/warehouse/SplashsActivity.java
+ com.example.warehouse.SplashsActivity
+ com.example.warehouse.SplashsActivity$1
+com/example/warehouse/adapters/ProductAdapter.java
+ com.example.warehouse.adapters.ProductAdapter
+ com.example.warehouse.adapters.ProductAdapter$ViewHolder

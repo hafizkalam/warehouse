@@ -25,6 +25,7 @@
             android:layout_marginTop="55dp"
             android:layout_marginBottom="70dp"
             android:text="Welcome, Admin"
+            android:fontFamily="@font/montserratlight"
             android:textStyle="bold"
             android:textColor="#F57C00"
             android:textSize="35sp"/>

@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069109695851:android:32135eb496188d45b6282e",
+        "android_client_info": {
+          "package_name": "com.hafizkalamabdillah.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069109695851-qjverfgtgircmu2vnef5e8ed4r89qvhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAElZpefv5lonaD0byJ1gHu42zMhx-WbCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069109695851-qjverfgtgircmu2vnef5e8ed4r89qvhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
