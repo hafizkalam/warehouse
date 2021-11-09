@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="25dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="85dp"
+        android:text="Add Product"
+        android:textSize="60dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="215dp"
+        android:text="Product "
+        android:textSize="20dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="224dp" />
+
+    <EditText
+        android:id="@+id/edititemname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-75dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="211dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="-76dp"
+        android:text="Category "
+        android:textSize="20dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="287dp" />
+
+    <EditText
+        android:id="@+id/editcategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/edititemname"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-75dp"
+        android:ems="10"
+        android:hint="Category"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="211dp" />
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginBottom="-72dp"
+        android:layout_marginLeft="45dp"
+        android:text="Price "
+        android:textSize="20dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="287dp" />
+
+    <EditText
+        android:id="@+id/editprice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editcategory"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-75dp"
+        android:ems="10"
+        android:textColor="#ffff"
+        android:inputType="number"
+        android:hint="Rp."
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="211dp" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView6"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignBottom="@+id/textView5"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_marginStart="6dp"-->
+<!--        android:layout_marginBottom="-56dp"-->
+<!--        android:text="Number "-->
+<!--        android:textSize="20dp"-->
+<!--        android:textStyle="bold"-->
+<!--        tools:layout_editor_absoluteX="38dp"-->
+<!--        tools:layout_editor_absoluteY="287dp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/barcodeview"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignBottom="@+id/editprice"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_marginEnd="108dp"-->
+<!--        android:layout_marginBottom="-36dp"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+<!--        android:textColor="#ffff"-->
+<!--        android:textColorHint="#ffff"-->
+<!--        android:hint="Bar/QR Code Number"-->
+<!--        tools:layout_editor_absoluteX="110dp"-->
+<!--        tools:layout_editor_absoluteY="211dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonscan"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignBottom="@+id/barcodeview"-->
+<!--        android:layout_centerHorizontal="true"-->
+
+<!--        android:layout_marginBottom="-70dp"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+<!--        android:text="Scan Bar/QR Code"-->
+<!--        android:textStyle="italic"-->
+<!--        tools:layout_editor_absoluteX="114dp"-->
+<!--        tools:layout_editor_absoluteY="211dp" />-->
+
+    <Button
+        android:id="@+id/additembuttontodatabase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editprice"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-70dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Add Item"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="211dp" />
+
+</RelativeLayout>

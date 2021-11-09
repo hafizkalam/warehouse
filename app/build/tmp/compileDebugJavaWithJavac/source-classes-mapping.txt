@@ -1,0 +1,7 @@
+com/example/warehouse/MainActivity.java
+ com.example.warehouse.MainActivity
+com/example/warehouse/LoginActivity.java
+ com.example.warehouse.LoginActivity
+ com.example.warehouse.LoginActivity$1
+com/example/warehouse/BuildConfig.java
+ com.example.warehouse.BuildConfig
